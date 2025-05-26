@@ -278,7 +278,7 @@ spec:
 ```
 
 #### 💡 Analogy:
-<i>Like an office doorbell wired to ring on a specific port – anyone with the address and port can reach it.</i>
+_Like an office doorbell wired to ring on a specific port – anyone with the address and port can reach it._
 
 ---
 
@@ -302,7 +302,7 @@ spec:
   type: LoadBalancer
 ```
 #### 💡 Analogy:
-<i>Like placing your business on Google Maps – open to the public via a real IP.
+_Like placing your business on Google Maps – open to the public via a real IP._
 
 ---
 
@@ -321,7 +321,7 @@ spec:
   externalName: api.external-service.com
 ```
 ### 💡 Analogy:
-<i> Like a phone contact that forwards to an external number.</i>
+_Like a phone contact that forwards to an external number._
 
 ---
 
