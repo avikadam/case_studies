@@ -14,7 +14,7 @@ Kubernetes is a container orchestration platform that automates deployment, scal
 |                     |        |                     |
 +---------------------+        +---------------------+
 ```
-[!image] /k8s/k8s_architecture.png
+![k8s_architecture.png](/k8s/k8s_architecture.png)
 
 ---
 
